@@ -22,7 +22,7 @@ Shopping Trends dataset : The primary dataset for this analysis is " " file cont
 
 ### Tools
 
-- Data Cleaning and Creating Report
+- Exclel for Data Cleaning and Creating Report
 - SQL snowflake for data analysis
 
 ### Exploratory Analysis
