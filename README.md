@@ -16,7 +16,8 @@ An analysis for the Shopping Trends
 This project  gives insights about the shopping trends
 
 ![Screenshot 2025-06-22 213309](https://github.com/user-attachments/assets/e6122c63-f626-46b7-b8ee-1831506f1f4a)
-![Screenshot 2025-06-25 161616](https://github.com/user-attachments/assets/ea80b623-2ec5-45a7-a7bd-a98b4aca709a)
+![Screenshot 2025-06-25 175104](https://github.com/user-attachments/assets/d8bdbbf5-93b1-4b85-a885-26ad62139f34)
+
 
 
 
