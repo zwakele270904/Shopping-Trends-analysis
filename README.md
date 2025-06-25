@@ -2,14 +2,14 @@
 An analysis for the Shopping Trends
 
 ## Table of contents
-[Project overview](#project-overview)
-[Data sources](#data-sources)
-[Tools](#tools)
-[Exploratory Analysis](#exploratory-analysis)
-[Data Analysis](#data-analysis)
-[Findigs](#findings)
-[Recommendations](#recommendations)
-[References](#references)
+- [Project overview](#project-overview)
+- [Data sources](#data-sources)
+- [Tools](#tools)
+- [Exploratory Analysis](#exploratory-analysis)
+- [Data Analysis](#data-analysis)
+- [Findigs](#findings)
+- [Recommendations](#recommendations)
+- [References](#references)
 
 ### Project overview
 
