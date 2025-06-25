@@ -21,7 +21,7 @@ This project  gives insights about the shopping trends
 
 
 ### Data sources 
-Shopping Trends dataset : The primary dataset for this analysis is " " file containing information about the Shopping processes.
+Shopping Trends dataset : The primary dataset for this analysis is "shopping_trends_updated(1).csv" file containing information about the Shopping processes.
 
 ### Tools
 
