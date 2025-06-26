@@ -3,6 +3,7 @@ An analysis for the Shopping Trends
 
 ## Table of contents
 - [Project overview](#project-overview)
+- [Skills shown](#skills-shown)
 - [Data sources](#data-sources)
 - [Tools](#tools)
 - [Exploratory Analysis](#exploratory-analysis)
@@ -19,6 +20,10 @@ This project  gives insights about the shopping trends
 ![Screenshot 2025-06-25 175104](https://github.com/user-attachments/assets/d8bdbbf5-93b1-4b85-a885-26ad62139f34)
 
 
+### Skills shown
+- Data Analysis and visualization
+- Insight generation
+- Stakeholder communication
 
 
 ### Data sources 
@@ -26,7 +31,8 @@ Shopping Trends dataset : The primary dataset for this analysis is "shopping_tre
 
 ### Tools
 
-- Exclel for Data Cleaning and Creating Report
+- Excel for Data Cleaning
+- Excel for  Creating Report
 - SQL snowflake for data analysis
 
 ### Exploratory Analysis
