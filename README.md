@@ -1,5 +1,6 @@
 # Shopping-Trends-analysis
-An analysis for the Shopping Trends
+This project presents a comprehensive analysis of customer purchasing behavior and retail trends using Power BI. The dashboard is designed to provide actionable insights into how customers interact with products, payment methods, and purchasing channels, enabling data-driven decision-making in a retail environment.
+The analysis focuses on customer transaction data, highlighting key metrics such as total purchases, demographic distribution, product preferences, and purchasing patterns across different seasons and locations
 
 ## Table of contents
 - [Project overview](#project-overview)
